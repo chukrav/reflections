@@ -1,3 +1,18 @@
 What happens when you initialize a repository? Why do you need to do it?
 To initialize new history and tracking.
 Changes for first commit! ... 
+
+What are some situations when branches would be helpful in keeping your 
+history organized? How would branches help?
+
+How do the diagrams help you visualize the branch structure?
+$git log --graph --oneline master easy-mode
+git branch - shows branches.
+
+What is the result of merging two branches together?
+We can merge branches with useful things.  
+Why do we represent it in the diagram the way we do?
+It is more presentative and understandable.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Speeding of process. Still can be mistakes.

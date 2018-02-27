@@ -35,3 +35,4 @@ Now that you have your workspace set up, what do you want to try using Git for?
 	
 git config --global core.editor "'C:\utils\Editors\Notepad++\notepad++.exe' -multiInst -notabbar -nosession -noPlugin"
 
+git config --global core.editor "'C:/utils/Editors/Notepad++/notepad++.exe' -multiInst -notabbar -nosession -noPlugin"
